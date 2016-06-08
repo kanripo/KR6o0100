@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:54.158027
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 大乘起信論義疏
 #+PROPERTY: CBETA_ID T44n1843
 #+PROPERTY: ID KR6o0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1843
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0100_T_001-0175a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1843[cf.No.1666]¶
-
- 大乘起信論義疏上之上¶
+No. 1843 [cf. No. 1666]¶
+大乘起信論義疏上之上¶
 ¶
 淨影寺沙門慧遠撰¶
 
@@ -134,7 +133,7 @@ No.1843[cf.No.1666]¶
 得興故須皆禮。二言請護者。若無加力何能¶
 勘說如此深理。要佛加力能說此法。如金剛¶
 藏菩薩欲說十地法門時。加四勘知四十無¶
-礙辯才。故末法惡時傳化不易。若無三寶威¶
+礙辨才。故末法惡時傳化不易。若無三寶威¶
 力加護無由自通。故須致敬以請助。三言為¶
 信者。論主自是不足之人造論釋經。人多不¶
 信。要須歸禮示有宗承。有所制立人方取信。¶
@@ -693,8 +692,7 @@ No.1843[cf.No.1666]¶
 大乘起信論義疏上之上¶
 ¶
 ¶
-
- 大乘起信論義疏上之下¶
+大乘起信論義疏上之下¶
 ¶
 淨影寺沙門慧遠撰¶
 

@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:54.207408
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 大乘起信論義疏
 #+PROPERTY: CBETA_ID T44n1843
 #+PROPERTY: ID KR6o0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1843
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0100_T_002-0189c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 大乘起信論義疏下之上¶
+大乘起信論義疏下之上¶
 ¶
 淨影寺沙門慧遠撰¶
 
@@ -577,8 +576,7 @@
 大乘起信論義疏下之上
 <pb:KR6o0100_T_002-0196a>¶
 ¶
-
- 大乘起信論義疏下之下¶
+大乘起信論義疏下之下¶
 ¶
 淨影寺沙門慧遠撰¶
 
@@ -743,7 +741,7 @@
 習。對治此執說有妄有妄熏。如論中言。妄熏¶
 有二。一事識熏。所謂凡夫二乘所修善。二者¶
 業識熏。謂諸菩薩所行之道。所熏有二。一者¶
-熏生。二者熏顯。望方便果說為熏在。其猶臈¶
+熏生。二者熏顯。望方便果說為熏在。其猶𣎅¶
 印印泥成文。亦如摸㩘轉金成器。望性淨果¶
 熏之顯。如爐治等融石出金。若言妄時未¶
 得真故今無熏者。得時由彼何為下熏。若言¶
